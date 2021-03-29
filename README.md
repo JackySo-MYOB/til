@@ -9,7 +9,6 @@
 
 ## k8s
 
-* [](https://github.com/JackySo-MYOB/til/blob/main/k8s/etcd-backup.md) - 2021-03-29
 * [etcd-backup](https://github.com/JackySo-MYOB/til/blob/main/k8s/etcd-backup-v1.md) - 2021-03-29
 
 ## github
