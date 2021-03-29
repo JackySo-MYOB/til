@@ -1,5 +1,7 @@
 # til - Today I learnt
 
+[![TIL Actions Status](https://github.com/JackySo-MYOB/til/workflows/"Build README"/badge.svg)](https://github.com/JackySo-MYOB/til/actions)
+
 <!-- index starts -->
 ## python
 
