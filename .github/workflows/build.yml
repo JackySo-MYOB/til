@@ -1,5 +1,5 @@
 
-name: Build README
+name: Build-README
 
 on:
   push:
